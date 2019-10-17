@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eveixiosoo.moriclock.com/sitemap.xml
